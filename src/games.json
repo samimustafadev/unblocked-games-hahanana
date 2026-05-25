@@ -1,0 +1,124 @@
+[
+  {
+    "id": "2048",
+    "title": "2048 Puzzle",
+    "category": "Puzzle",
+    "description": "The viral sliding tile numbers game where you merge tile numbers to reach the ultimate master block: 2048!",
+    "iframeUrl": "https://gabrielecirulli.github.io/2048/",
+    "instructions": "Place blocks with identical numbers adjacent to each other. Slide them in four directions to merge values together and double their scores until you manifest the mythical 2048 block.",
+    "controls": [
+      "Arrow Keys / WASD - Slide Tiles",
+      "Swipe - Slide on Touch Screens"
+    ],
+    "iconName": "Binary",
+    "rating": 4.8,
+    "playCount": 1250
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris Arcade",
+    "category": "Retro",
+    "description": "Fast-paced, colorful rotational hexagon match puzzle inspired by Tetris. Clear rows by spinning matching colors.",
+    "iframeUrl": "https://hextris.github.io/hextris/",
+    "instructions": "Rotate the central hexagon to catch falling colored bars. Place three bars of the same color side-by-side to clear them and prevent the stack from overflowing past outer boundaries.",
+    "controls": [
+      "Left & Right Arrow Keys - Spin Hexagon",
+      "A & D Keys - Alternative spin controls",
+      "Click/Tap edges - Spin left or right"
+    ],
+    "iconName": "Hexagon",
+    "rating": 4.7,
+    "playCount": 940
+  },
+  {
+    "id": "google-pacman",
+    "title": "Google Pac-Man",
+    "category": "Retro",
+    "description": "The legendary classic arcade maze game originally developed by Google as an interactive celebratory doodle.",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "instructions": "Navigate Pac-man through the grid, eating all public dots to progress. Avoid the four ghostly pursuers - Blinky, Pinky, Inky, and Clyde. Eat glowing power pellets to temporarily turn the tables on your ghostly trackers!",
+    "controls": [
+      "Arrow Keys - Steer Pac-Man",
+      "Swipe on screen - Steer on Mobile"
+    ],
+    "iconName": "CircleDot",
+    "rating": 4.9,
+    "playCount": 1980
+  },
+  {
+    "id": "classic-snake",
+    "title": "Retro Snake",
+    "category": "Retro",
+    "description": "The quintessential arcade retro game of speed. Guide your snake, eat red food nodes, and grow without striking walls or yourself.",
+    "iframeUrl": "https://tanay-pant.github.io/classic-snake/",
+    "instructions": "Steer the snake gracefully around the quadrant sandbox. Each food pellet digested elongates your structural tail. Crashing into the arena grid bounds or biting your own tail resets your journey.",
+    "controls": [
+      "Arrow Keys - Navigate",
+      "Space Bar - Pause game"
+    ],
+    "iconName": "Flame",
+    "rating": 4.5,
+    "playCount": 1120
+  },
+  {
+    "id": "a-dark-room",
+    "title": "A Dark Room",
+    "category": "Strategy",
+    "description": "Minimalist text-based clicker mystery RPG. Stoke the fire, explore the wilderness, and build a thriving survival settlement.",
+    "iframeUrl": "https://adarkroom.doublespeakgames.com/",
+    "instructions": "Begin by kindling the cold fireplace in a dark room. Gather crucial timber, invite lone wanderers, construct a settlement, and systematically expand your operational supply routes into the uncharted outer wastes.",
+    "controls": [
+      "Left Mouse Click - Interact and Select",
+      "Keyboard Navigation - Text inputs"
+    ],
+    "iconName": "Compass",
+    "rating": 4.9,
+    "playCount": 850
+  },
+  {
+    "id": "floppybird",
+    "title": "Floppy Bird",
+    "category": "Endless",
+    "description": "Challenging retro-styled flapper simulator. Synchronize gravity pulses to dodge the endless rows of emerald pipeline columns.",
+    "iframeUrl": "https://nebez.github.io/floppybird/",
+    "instructions": "Leap forward with precise taps to adjust altitude. Fly centered through green pipes to score. Each crash immediately brings your bird back to solid earth.",
+    "controls": [
+      "Space Bar / Left Click / Screen Tap - Flap Wings"
+    ],
+    "iconName": "Wind",
+    "rating": 4.4,
+    "playCount": 1470
+  },
+  {
+    "id": "hexgl",
+    "title": "HexGL Racer",
+    "category": "Action",
+    "description": "A high-speed futuristic hovercraft racing prototype made in WebGL. Experience cyber-speed and test your reaction times.",
+    "iframeUrl": "https://hexgl.bkcore.com/play/",
+    "instructions": "Navigate your slick anti-gravity racing machine down technical cyber trails. Collect speed rings, dodge wall scrapings, and complete three laps to set absolute records.",
+    "controls": [
+      "Up Arrow / W - Accelerate Thrusters",
+      "Left & Right Arrows / A, D - Steering",
+      "J Key - Toggle Airbrakes Left",
+      "L Key - Toggle Airbrakes Right"
+    ],
+    "iconName": "Zap",
+    "rating": 4.6,
+    "playCount": 680
+  },
+  {
+    "id": "tictactoe-retro",
+    "title": "Tic-Tac-Toe Pro",
+    "category": "Puzzle",
+    "description": "A lightweight tactical tic-tac-toe game with simple AI levels and clean grid displays. Great for rapid focus breaks.",
+    "iframeUrl": "https://feelfreelinux.github.io/tic-tac-toe/",
+    "instructions": "Take turns placing your X or O grids on the 3x3 plane. Aligning three identical characters vertically, horizontally, or diagonally seals a solid round win against dynamic opponents.",
+    "controls": [
+      "Left Click / Screen Touch - Place Symbol",
+      "Reset Button - Clear Grid Board"
+    ],
+    "iconName": "X",
+    "rating": 4.2,
+    "playCount": 510
+  }
+]

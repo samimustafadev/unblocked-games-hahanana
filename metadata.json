@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Arcade",
+  "description": "A clean, modern unblocked gaming website hosting retro and web-based classics in iframes, complete with customizable game links and search controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
